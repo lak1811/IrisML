@@ -99,7 +99,7 @@ votingpredictor=voting_clf.predict(new_flower_measurements)
 
 
 # Displaying the predictions
-print (f"KNN predictor: {knn_model}")
+print (f"KNN predictor: {knn_predictions}")
 print (f"Random Forest predictor: {forest_predictions}")
 print(f"Decision Tree predictor: {dt_predictions}")
 print (f"SVC predictor: {svcpredictions}")
