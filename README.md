@@ -7,5 +7,5 @@ pip install matplotlib
 pip install scikit-learn
 ```
 
-This project was made for me to learn about the usage of classifiers in a practical scenario. Hence, i have used four different kind of classifiers, which are Decision Tree classifier, Random Forest classifier, SVC classifier, KNeighbors classifier and lastly a voting classifier to compare them all. Usually, a project need no more than one classifier, but since this project was made as a learning project, this was added. Enjoy the program!
+This project was made for me to learn about the usage of ML concepts in a practical scenario. Hence, i have at times used multiple ways to solve an issue, as using different kind of classifiers (which i did in classification.py since i used four classifiers, including a voting classifier). As said, this is made for me to learn aabout ML and understand how to use datasets in different ways. Enjoy the program!
 
